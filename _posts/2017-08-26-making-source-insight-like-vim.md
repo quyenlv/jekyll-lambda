@@ -13,7 +13,7 @@ Therefore, I will do study about Vim plugins which can help me to make Vim becom
 
 <!-- more -->
 
-![Source Insight Window](/images/2017-08-26-source-insight-window.gif)
+![Source Insight Window](/images/2017-08-26-source-insight-window.gif "Source Insight Window")
 
 ## Source Insight User Interface Analysis
 There are four main windows:
@@ -26,7 +26,7 @@ There are four main windows:
 One of the things that makes vim great is that it can be extended through plugins. There are plugins for more than you would expect. Of course, there are awesome plugins can work as same as above Source Insight windows in Vim. I will separate into two parts: the first part is to make the skeleton and the second part is to make up it (including color, shortcuts...).
 
 ### Making Source-Insight-like Vim skeleton
-
+---
 Excluding the `Source File Window`, because it is the Vim's origin feature, the remaining three Source Insight windows can be handled by these plugins:
 
 #### Taglist - The Symbol Window
@@ -80,7 +80,7 @@ There are several different ways you can navigate your code base using tags:
 1. From the vim editor, execute `:TlistOpen` as shown above, which opens the tag list window with the tags of the current file as shown in the figure below. By clicking on the function name in the left panel, you would be able to go to the definition of the functions.
 
 
-![Taglist window in Vim](/images/2017-08-26-tlistopen.png)
+![Taglist window in Vim](/images/2017-08-26-tlistopen.png "Taglist window in Vim"){: width="50%" .center-image}
 
 #### NERD Tree - The Project Window
 The NERDTree is a file system explorer for the Vim editor. Using this plugin, users can visually browse complex directory hierarchies, quickly open files for reading or editing, and perform basic file system operations.
@@ -121,6 +121,7 @@ Finally, combine all of them into a shortcut. You can press `F3` to toogle these
 ```
 
 ### Make up Vim
+---
 (to be edited)
 
 ## Reference

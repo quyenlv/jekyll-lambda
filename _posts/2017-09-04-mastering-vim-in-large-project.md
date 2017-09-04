@@ -303,3 +303,4 @@ Press ENTER or type command to continue
 1. <https://stackoverflow.com/questions/934233/cscope-or-ctags-why-choose-one-over-the-other>
 1. <http://www.fsl.cs.sunysb.edu/~rick/cscope.html>
 1. <http://kphuang1009.blogspot.com/2015/03/creating-cscope-and-ctags-database-for.html>
+1. <http://vimdoc.sourceforge.net/htmldoc/if_cscop.html#csto>
