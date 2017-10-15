@@ -71,4 +71,3 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
 
-theme: jekyll-whiteglass
