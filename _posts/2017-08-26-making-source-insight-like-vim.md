@@ -22,7 +22,7 @@ Here is our target:
 
 <!-- more -->
 
-![Source Insight Window](/images/2017-08-26-source-insight-window.gif "Source Insight Window")
+![Source Insight Window](http://c1.staticflickr.com/5/4445/37672731222_61095959c4_z.jpg "Source Insight Window")
 
 ## Source Insight User Interface Analysis
 ---
